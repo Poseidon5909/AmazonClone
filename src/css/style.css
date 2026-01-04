@@ -196,7 +196,7 @@ body {
 }
 /* hero-section */
 .hero-section {
-  background-image: url(hero_image.jpg);
+  background-image: url('../../public/images/hero_image.jpg');
   height: 350px;
   background-size: cover;
   background-position: top;
@@ -340,7 +340,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("../../public/images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
